@@ -8,3 +8,4 @@ The difficulty of access to the various resources in the official website is one
 
 The requirement of needing to be online all the time to access various resources is also a hindrance for some since some details about the college shouldn’t require internet at all. The further convenience of being able to easily open an application and lookup for the desired information is another win for the application department and can be considered as a huge ease of use for the user.
 
+[use this android application in light mode(turn off dark mode)]
